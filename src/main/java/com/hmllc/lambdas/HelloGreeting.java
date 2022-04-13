@@ -1,4 +1,4 @@
-package com.hmllc;
+package com.hmllc.lambdas;
 
 public class HelloGreeting implements Greeting{
 

@@ -1,4 +1,4 @@
-package com.hmllc;
+package com.hmllc.lambdas;
 
 import java.util.Random;
 import java.util.function.BiFunction;
