@@ -26,6 +26,7 @@ public class Main {
         };
         System.out.println(calculator.calculate(1,3));
 
+        // using pre-built functional interfaces
         BiFunction<Integer, Integer, Integer> calculator2 = (Integer x, Integer y) -> {
             Random random = new Random();
             int randomNumber = random.nextInt(5);
